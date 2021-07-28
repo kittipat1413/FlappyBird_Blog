@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FlappyBird_Blog/static/css/main.15c865e8.chunk.css",
+    "main.js": "/FlappyBird_Blog/static/js/main.18b1f7dd.chunk.js",
+    "main.js.map": "/FlappyBird_Blog/static/js/main.18b1f7dd.chunk.js.map",
+    "runtime-main.js": "/FlappyBird_Blog/static/js/runtime-main.37e5209e.js",
+    "runtime-main.js.map": "/FlappyBird_Blog/static/js/runtime-main.37e5209e.js.map",
+    "static/js/2.c5c75b76.chunk.js": "/FlappyBird_Blog/static/js/2.c5c75b76.chunk.js",
+    "static/js/2.c5c75b76.chunk.js.map": "/FlappyBird_Blog/static/js/2.c5c75b76.chunk.js.map",
+    "index.html": "/FlappyBird_Blog/index.html",
+    "precache-manifest.35e16a1ce48a8e5a20fdcd5474234f73.js": "/FlappyBird_Blog/precache-manifest.35e16a1ce48a8e5a20fdcd5474234f73.js",
+    "service-worker.js": "/FlappyBird_Blog/service-worker.js",
+    "static/css/main.15c865e8.chunk.css.map": "/FlappyBird_Blog/static/css/main.15c865e8.chunk.css.map",
+    "static/js/2.c5c75b76.chunk.js.LICENSE.txt": "/FlappyBird_Blog/static/js/2.c5c75b76.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/FlappyBird_Blog/static/media/fb-game-background.9437cf95.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37e5209e.js",
+    "static/js/2.c5c75b76.chunk.js",
+    "static/css/main.15c865e8.chunk.css",
+    "static/js/main.18b1f7dd.chunk.js"
+  ]
+}
